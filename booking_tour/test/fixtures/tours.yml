@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idTour: 1
+  idGallery: 1
+  idCategory: 1
+  idComment: 1
+  idBooktourDetails: 1
+  Tour_Review: MyString
+  : MyText
+  Tour_Details: MyText
+  Tour_Price: 1
+  Tour_DayStart: 2019-04-04
+  Tour_DayEnd: 2019-04-04
+  Tour_PlaceStart: MyText
+
+two:
+  idTour: 1
+  idGallery: 1
+  idCategory: 1
+  idComment: 1
+  idBooktourDetails: 1
+  Tour_Review: MyString
+  : MyText
+  Tour_Details: MyText
+  Tour_Price: 1
+  Tour_DayStart: 2019-04-04
+  Tour_DayEnd: 2019-04-04
+  Tour_PlaceStart: MyText

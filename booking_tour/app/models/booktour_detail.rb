@@ -1,0 +1,2 @@
+class BooktourDetail < ApplicationRecord
+end
